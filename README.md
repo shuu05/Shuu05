@@ -29,7 +29,7 @@
 
 - Student Mark Predictor [Click Here](https://mark-predicto.herokuapp.com/)
 
-- Resume Generator Project [Click Here]
+- Resume Generator Project [Click Here](https://shuu05.github.io/Resume-Generator/)
 
 - Email spam or ham classifier [Click Here](https://email-type-finder.herokuapp.com/)
 
