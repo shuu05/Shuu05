@@ -25,7 +25,7 @@
 
 <h3 align="left">My Projects:</h3>
 
-- Movie Recommendation System [Click Here](https://ml-project-recommendation.herokuapp.com/)
+- Movie Recommendation System [Click Here](https://streamlit-recommender.herokuapp.com/)
 
 - Restaurant Rating App [Click Here](https://restaurant-rating-project.herokuapp.com/)
 
