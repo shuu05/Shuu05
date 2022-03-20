@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [shuu05@github.io](shuu05@github.io)
 
-- My Portfilio [visit](https://shuu05.github.io/portfolio/)
+- My Portfilio [visit](https://shuu05.github.io/Portfolio/)
 
 - 📫 How to reach me **Ns.Nandinising@gmail.com**
 
