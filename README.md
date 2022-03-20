@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shuu05" alt="shuu05" /></a> </p>
 
-- 🔭 I’m currently working on **House pricing project**
+- 🔭 I’m currently working on some **Opencv project**
 
 - 🌱 I’m currently learning **Deep Learning**
 
