@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://dev.to/nandini" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="nandini" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/nandini05/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nandini slingh" height="30" width="40" /></a>
-<a href="https://kaggle.com/nandini singh 05" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="nandini singh 05" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/nandinisingh05" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="nandini singh 05" height="30" width="40" /></a>
 <a href="https://instagram.com/nandini_singh1122" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="nandini_singh1122" height="30" width="40" /></a>
 </p>
 
